@@ -35,3 +35,4 @@ transformers==4.46.3
 typing_extensions==4.12.2
 urllib3==1.26.20
 gunicorn
+Flask
