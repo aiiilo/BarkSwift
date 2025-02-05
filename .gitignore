@@ -1,0 +1,10 @@
+# Python 仮想環境
+venv39/
+__pycache__/
+
+# 生成された音声データ
+*.wav
+
+# 学習済みモデル
+bark_model.pth
+
